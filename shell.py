@@ -318,3 +318,4 @@ def shell(command, has_input=False, record_output=True, record_errors=True,
         strip_empty=strip_empty
     )
     return sh.run(command)
+###
